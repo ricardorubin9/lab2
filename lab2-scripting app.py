@@ -1,10 +1,8 @@
-#Creat a dictionary
-
 def Show_info(Info_Student):
     #STEP 4
     var_firstname=Info_Student['full_name'].split(' ')
     var_name=var_firstname[0]
-    print (f"My name is {Info_Student['full_name']}, but you can call me Sir {var_name}.\nMy student ID is {Info_Student['student_id']}")
+    print (f"My name is {Info_Student['full_name']}, but you can call me {var_name}.\nMy student ID is {Info_Student['student_id']}")
 
 
 

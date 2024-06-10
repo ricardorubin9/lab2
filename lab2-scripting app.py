@@ -47,8 +47,8 @@ def Show_movieTitles(Info_Student):
 
 def main():
     Info_Student = {
-        "full_name": "Ricardo Rubin",
-        "student_id": "1235",
+        "full_name": "Ricardo Yael Rubin Uriostegui",
+        "student_id": "10340560",
         "pizza_toppings": ["PEPPERONI", "BACON", "CHILI"],
         "movies_title": ["exorcist", "conjure", "batman"],       
         "movies_genre": ["Horror", "Action", "Comedy"] 

@@ -48,7 +48,7 @@ def main():
         "full_name": "Ricardo Yael Rubin Uriostegui",
         "student_id": "10340560",
         "pizza_toppings": ["PEPPERONI", "BACON", "HAM"],
-        "movies_title": ["The exorcist", "The conjuring", "Goal"],       
+        "movies_title": ["the exorcist", "the conjuring", "goal"],       
         "movies_genre": ["Horror", "Action", "Comedy"] 
     }  #STEP 2
     print(Info_Student)
